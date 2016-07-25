@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "184267766E36B77201A5225E65E1467FEE3AC964",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "184267766E36B77201A5225E65E1467FEE3AC964" : 0,
+    "2583ABF349E3589A83DF1ED28D11EC6D74EFD047" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "AE88A976-5FFF-42C6-A814-AE47E66C3ED7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "184267766E36B77201A5225E65E1467FEE3AC964" : "swift-captain-morgans-relationships-lab-ios-0616\/",
+    "2583ABF349E3589A83DF1ED28D11EC6D74EFD047" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "swift-captain-morgans-relationships-lab",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "swift-captain-morgans-relationships-lab.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:ismaelbarry\/swift-captain-morgans-relationships-lab-ios-0616.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "184267766E36B77201A5225E65E1467FEE3AC964"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:ismaelbarry\/swift-slapchat-relationships-lab-ios-0616.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2583ABF349E3589A83DF1ED28D11EC6D74EFD047"
+    }
+  ]
+}
